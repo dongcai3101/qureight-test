@@ -20,5 +20,5 @@ Quality is expecting a robust and reliable system.
 
 ## How to run project
 
--- go to api and run `yarn install && yarn start`
--- go to ui and run `yarn install && yarn start`
+- go to api and run `yarn install && yarn start`
+- go to ui and run `yarn install && yarn start`
