@@ -17,3 +17,8 @@ Quality is expecting a robust and reliable system.
 - Use a UI library of your choice
 - Task should be completed in 2 hours or less
 - Use this repository as a template for your app
+
+## How to run project
+
+-- go to api and run `yarn install && yarn start`
+-- go to ui and run `yarn install && yarn start`
